@@ -1,22 +1,22 @@
 <?php
 /******************************************
-US English
+French
 Admin Administrator Management Language
 ******************************************/
 
-$lang['admins']					= 'Administrators';
-$lang['admin_form']				= 'Administrator Form';
-$lang['add_new_admin']			= 'Add New Admin';
-$lang['error_self_delete']		= 'You cannot delete yourself';
-$lang['admin_not_found']		= 'The requested administrator could not be found';
-$lang['firstname']				= 'First Name';
-$lang['lastname']				= 'Last Name';
+$lang['admins']					= 'Administrateurs';
+$lang['admin_form']				= 'Compte administrateur';
+$lang['add_new_admin']			= 'Ajouter un nouveau compte administrateur';
+$lang['error_self_delete']		= 'Vous ne pouvez supprimer votre propre compte';
+$lang['admin_not_found']		= 'Le compte administrateur demandé n\'a pas été trouvé';
+$lang['firstname']				= 'Prénom';
+$lang['lastname']				= 'Nom de famille';
 $lang['email']					= 'Email';
-$lang['access']					= 'Access';
-$lang['password']				= 'Password';
-$lang['confirm_password']		= 'Confirm Password';
-$lang['message_user_saved']		= 'The administrator has been saved!';
-$lang['message_user_deleted']	= 'The administrator has been deleted.';
-$lang['error_email_taken']		= 'The requested email is already in use.';
-$lang['information']			= 'Information';
-$lang['confirm_delete']			= 'Are you sure you want to delete this administrator?';
+$lang['access']					= 'Accès';
+$lang['password']				= 'Mot de passe';
+$lang['confirm_password']		= 'Confirmez le mot de passe';
+$lang['message_user_saved']		= 'Le compte administrateur a été sauvegardé !';
+$lang['message_user_deleted']	= 'Le compte administrateur a été supprimé !';
+$lang['error_email_taken']		= 'L\'email fourni est déjà utilisé';
+$lang['information']			= 'Informations';
+$lang['confirm_delete']			= 'Êtes-vous sûr de vouloir supprimer ce compte administrateur ?';

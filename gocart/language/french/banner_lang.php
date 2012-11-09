@@ -1,23 +1,23 @@
 <?php
 /******************************************
-US English
+French
 Admin Banner Language
 ******************************************/
 
-$lang['banners']				= 'Banners';
-$lang['title']					= 'Title';
-$lang['link']					= 'Link';
-$lang['enable_on']				= 'Enable On';
-$lang['disable_on']				= 'Disable On';
-$lang['new_window']				= 'New Window';
+$lang['banners']				= 'Bannières';
+$lang['title']					= 'Titre';
+$lang['link']					= 'Lien';
+$lang['enable_on']				= 'Date de démarrage';
+$lang['disable_on']				= 'Date de fin';
+$lang['new_window']				= 'Nouvelle fenêtre ?';
 $lang['image']					= 'Image';
-$lang['current_file']			= 'Current File';
-$lang['confirm_delete_banner']	= 'Are you sure you want to delete this banner?';
-$lang['add_new_banner']			= 'Add New Banner';
-$lang['no_banners']				= 'There are currently no banners';
-$lang['message_banner_saved']	= 'The banner has been saved!';
-$lang['date_error']				= 'The "Disable On" date cannot come on or before the "Enable On" date.';
-$lang['banner_form']			= 'Banner Form';
-$lang['message_delete_banner']	= 'The banner has been deleted.';
-$lang['sort']					= 'Sort';
-$lang['sort_banners']			= 'Banners are sortable! Just drag and drop them in the order you would like for them to appear.';
+$lang['current_file']			= 'Fichier actuellement utilisé';
+$lang['confirm_delete_banner']	= 'Êtes-vous sûr de vouloir supprimer cette bannière ?';
+$lang['add_new_banner']			= 'Ajouter une nouvelle bannière';
+$lang['no_banners']				= 'Il n\'y a actuellement aucune bannière';
+$lang['message_banner_saved']	= 'La bannière a été sauvegardé !';
+$lang['date_error']				= 'La date de fin doit être strictement supérieure à la date de démarrage.';
+$lang['banner_form']			= 'Bannière';
+$lang['message_delete_banner']	= 'La bannière a été supprimée.';
+$lang['sort']					= 'Trier';
+$lang['sort_banners']			= 'Les bannières sont triables ! Utilisez le système de glisser-déposer';
