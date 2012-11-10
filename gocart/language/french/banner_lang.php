@@ -20,4 +20,4 @@ $lang['date_error']				= 'La date de fin doit être strictement supérieure à l
 $lang['banner_form']			= 'Bannière';
 $lang['message_delete_banner']	= 'La bannière a été supprimée.';
 $lang['sort']					= 'Trier';
-$lang['sort_banners']			= 'Les bannières sont triables ! Utilisez le système de glisser-déposer';
+$lang['sort_banners']			= 'Les bannières sont triables ! Utilisez le système de glisser-déposer.';

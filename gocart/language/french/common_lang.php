@@ -2,7 +2,7 @@
 
 /******************************************
 
-US English
+French
 Common Language
 
 ******************************************/
@@ -17,118 +17,121 @@ Site front end
 *******************/
 
 //common terms
-$lang['login']					= 'Login';
-$lang['logout']					= 'Logout';
-$lang['my_account']				= 'My Account';
-$lang['my_downloads']			= 'My Downloads';
-$lang['enabled']				= 'Enabled';
-$lang['disabled']				= 'Disabled';
+$lang['login']					= 'Connexion';
+$lang['logout']					= 'Déconnexion';
+$lang['my_account']				= 'Mon compte';
+$lang['my_downloads']			= 'Mes téléchargements';
+$lang['enabled']				= 'Activé';
+$lang['disabled']				= 'Désactivé';
 $lang['mode']					= 'Mode';
-$lang['currency']				= 'Currency';
-$lang['active']					= 'Active';
-$lang['yes']					= 'Yes';
-$lang['no']						= 'No';
-$lang['download_link']			= 'Click here to access your downloads!';
+$lang['currency']				= 'Devise';
+$lang['active']					= 'Actif';
+$lang['yes']					= 'Oui';
+$lang['no']						= 'Non';
+$lang['download_link']			= 'Cliquez ici pour accéder à vos téléchargements !';
 
-$lang['empty_cart']				= 'Your cart is empty';
-$lang['single_item']			= 'There is %d item in your cart';
-$lang['multiple_items']			= 'There are %d items in your cart';
-$lang['empty_view_cart']		= 'There are no products in your cart!';
-$lang['your_cart']				= 'Your Cart';
+$lang['empty_cart']				= 'Votre panier est vide';
+$lang['single_item']			= 'Il y a %d article dans votre panier';
+$lang['multiple_items']			= 'Il y a %d articles dans votre panier';
+$lang['empty_view_cart']		= 'Il n\'y a pas de produit dans votre panier';
+$lang['your_cart']				= 'Votre panier';
 
-$lang['on_sale']				= 'On Sale!';
-$lang['related_products_title']	= 'You might also like...';
-$lang['form_submit']			= 'Submit';
-$lang['form_register']			= 'Register';
-$lang['form_login']				= 'Login';
-$lang['reset_password']			= 'Reset Password';
-$lang['form_search']			= 'Search';
-$lang['form_cancel']			= 'Cancel';
-$lang['form_add_to_cart']		= 'Add to Cart';
-$lang['form_update_cart']		= 'Update Cart';
-$lang['form_checkout']			= 'Checkout';
-$lang['form_continue']			= 'Continue';
-$lang['form_choose']			= 'Choose';
-$lang['form_edit']				= 'Edit';
-$lang['form_delete']			= 'Delete';
-$lang['form_search']			= 'Search';
-$lang['form_view']				= 'View';
-$lang['form_save']				= 'Save';
-$lang['form_from']				= 'From';
-$lang['form_to']				= 'to';
+$lang['on_sale']				= 'Promotion !';
+$lang['related_products_title']	= 'Vous pourriez aussi aimer...';
+$lang['form_submit']			= 'Soumettre';
+$lang['form_register']			= 'Se créer un compte';
+$lang['form_login']				= 'Se connecter';
+$lang['reset_password']			= 'Obtenir un nouveau mot de passe';
+$lang['form_search']			= 'Rechercher';
+$lang['form_cancel']			= 'Annuler';
+$lang['form_add_to_cart']		= 'Ajouter au panier';
+$lang['form_update_cart']		= 'Mettre à jour le panier';
+$lang['form_checkout']			= 'Terminer la commande';
+$lang['form_continue']			= 'Continuer';
+$lang['form_choose']			= 'Choisir';
+$lang['form_edit']				= 'Éditer';
+$lang['form_delete']			= 'Supprimer';
+$lang['form_search']			= 'Rechercher';
+$lang['form_view']				= 'Voir';
+$lang['form_save']				= 'Sauvegarder';
+$lang['form_from']				= 'De';
+$lang['form_to']				= 'À';
 
-$lang['step_1']					= 'Step 1';
-$lang['step_2']					= 'Step 2';
-$lang['free_shipping_basic']	= 'Free Shipping (basic)';
+$lang['step_1']					= 'Étape 1';
+$lang['step_2']					= 'Étape 2';
+$lang['free_shipping_basic']	= 'Livraison gratuite (basique)';
 
-$lang['search']					= 'Search';
-$lang['search_error']			= 'Your did not supply a search term!';
-$lang['amount']					= 'Amount';
-$lang['custom_amount']			= 'Custom Amount';
-$lang['preset_amount']			= 'Preset Amount';
-$lang['recipient_name']			= 'Recipient Name';
-$lang['recipient_email']		= 'Recipient Email';
-$lang['sender_email']			= 'Sender Email';
-$lang['custom_greeting']		= 'Custom Greeting Message';
-$lang['check_out']				= 'Check Out';
+$lang['search']					= 'Rechercher';
+$lang['search_error']			= 'Vous n\'avez entré aucun mot à rechercher !';
+$lang['amount']					= 'Montant';
+$lang['custom_amount']			= 'Montant personnalisé';
+$lang['preset_amount']			= 'Montant pré-renseigné';
+$lang['recipient_name']			= 'Nom du destinataire';
+$lang['recipient_email']		= 'Email du destinataire';
+$lang['sender_email']			= 'Email de l\'expéditeur';
+$lang['custom_greeting']		= 'Message de bienvenue personnalisé';
+$lang['check_out']				= 'Terminer la commande';
 
-$lang['sort_by_name_asc']		= 'Sort by name A to Z';
-$lang['sort_by_name_desc']		= 'Sort by name Z to A';
-$lang['sort_by_price_asc']		= 'Sort by price Low to High';
-$lang['sort_by_price_desc']		= 'Sort by price High to Low';
+$lang['sort_by_name_asc']		= 'Trier par nom de A à Z';
+$lang['sort_by_name_desc']		= 'Trier par nom de Z to A';
+$lang['sort_by_price_asc']		= 'Trier par prix du moins cher au plus cher';
+$lang['sort_by_price_desc']		= 'Trier par prix du plus cher au moins cher';
 
-$lang['products']				= 'Products';
-$lang['out_of_stock']			= 'Out of Stock';
-$lang['no_products']			= 'There are currently no available products in this category.';
-$lang['no_image_available']		= 'No Image Available';
+$lang['products']				= 'Produits';
+$lang['out_of_stock']			= 'Rupture de stock';
+$lang['no_products']			= 'Il n\'y actuellement aucun produit dans cette catégorie.';
+$lang['no_image_available']		= 'Pas d\'image disponible';
 $lang['product_reg']			= 'reg:';
-$lang['product_price']			= 'Price:';
-$lang['product_sale']			= 'SALE:';
-$lang['available_options']		= 'Available Options';
-$lang['choose_option']			= 'Choose an Option';
+$lang['product_price']			= 'Prix:';
+$lang['product_sale']			= 'PROMO:';
+$lang['available_options']		= 'Options disponibles';
+$lang['choose_option']			= 'Choisissez une option';
 $lang['tab_description']		= 'Description';
-$lang['tab_related_products']	= 'Related Products';
+$lang['tab_related_products']	= 'Produits similaires';
 
-$lang['loading']					= 'Loading&hellip;';
-$lang['coupon_label']				= 'If you have a coupon, enter the code here:';
-$lang['gift_card_label']			= 'If you have a Gift Certificate, enter the code here:';
-$lang['apply_gift_card']			= 'Apply Gift Card';
-$lang['apply_coupon']				= 'Apply Coupon';
-$lang['customer_information']		= 'Customer Information';
-$lang['error_save_payment']			= 'There was a problem saving your payment method';
-$lang['error_choose_payment']		= 'Please choose a payment method';
-$lang['error_choose_shipping']		= 'Please choose a shipping method';
-$lang['continue_shopping']			= 'Continue Shopping';
-$lang['form_login']					= 'Log In';
-$lang['register_now']				= 'Register Now';
-$lang['submit_order']				= 'Submit Order';
-$lang['edit_customer_information']	= 'Edit Customer Information';
-$lang['communication_error']		= 'There was an unexpected problem communicating with the server.';
-$lang['no_payment_needed']			= 'There is no payment necessary.';
-$lang['choose_payment_method']		= 'Choose Payment Method';
-$lang['shipping_method']			= 'Shipping Method';
-$lang['no_shipping_needed']			= 'Your order does not include any items that require shipping.';
-$lang['payment_information']		= 'Payment Information';
-$lang['payment_method']				= 'Payment Method';
-$lang['submit_payment_method']		= 'Submit Payment Method';
-$lang['product_information']		= 'Product Info';
-$lang['price_and_quantity']			= 'Price &amp; Quantity';
+$lang['loading']					= 'Chargement&hellip;';
+$lang['coupon_label']				= 'Si vous avez un coupon de réduction, entrez le code ici :';
+$lang['gift_card_label']			= 'Si vous avez un chèque cadeau, entrez le code ici :';
+$lang['apply_gift_card']			= 'Utiliser le chèque cadeau';
+$lang['apply_coupon']				= 'Utiliser le coupon de réduction';
+$lang['customer_information']		= 'Informations client';
+$lang['error_save_payment']			= 'Problème lors de la sauvegarde de la méthode de paiement';
+$lang['error_choose_payment']		= 'Choisissez une méthode de paiement';
+$lang['error_choose_shipping']		= 'Choisissez un mode de livraison';
+$lang['continue_shopping']			= 'Continuer vos achats';
+$lang['form_login']					= 'Se connecter';
+$lang['register_now']				= 'Créer un compte';
+$lang['submit_order']				= 'Soumettre la commande';
+$lang['edit_customer_information']	= 'Modifier les informations client';
+$lang['communication_error']		= 'Une erreur a eu lieu lors de la communication avec le serveur.';
+$lang['no_payment_needed']			= 'Le paiement n\'est pas nécessaire.';
+$lang['choose_payment_method']		= 'Choisissez la méthode de paiement';
+$lang['shipping_method']			= 'Méthode de livraison';
+$lang['no_shipping_needed']			= 'Votre commande ne contient pas d\'article nécessitant une livraison.';
+$lang['payment_information']		= 'Informations de paiement';
+$lang['payment_method']				= 'Méthode de paiement';
+$lang['submit_payment_method']		= 'Valider la méthode de paiement';
+$lang['product_information']		= 'Informations produit';
+$lang['price_and_quantity']			= 'Prix &amp; Quantité';
 $lang['sku']						= 'SKU';
-$lang['name']						= 'Name';
-$lang['price']						= 'Price';
+$lang['name']						= 'Nom';
+$lang['price']						= 'Prix';
 $lang['description']				= 'Description';
-$lang['quantity']					= 'Quantity';
-$lang['totals']						= 'Totals';
-$lang['group_discount']				= 'Group Discount';
-$lang['subtotal']					= 'Subtotal';
+$lang['quantity']					= 'Quantité';
+$lang['totals']						= 'Totaux';
+// TODO check
+$lang['group_discount']				= 'Réduction de groupe';
+$lang['subtotal']					= 'Sous-total';
 $lang['cart_total']					= "Total";
-$lang['coupon_discount']			= 'Coupon Discount';
-$lang['gift_card_discount']			= 'Gift Card Discount';
-$lang['discounted_subtotal']		= 'Discounted Subtotal';
-$lang['shipping']					= 'Shipping';
-$lang['tax']						= 'Tax';
+$lang['coupon_discount']			= 'Réduction coupon';
+$lang['gift_card_discount']			= 'Réduction chèque cadeau';
+$lang['discounted_subtotal']		= 'Sous-total avec réduction';
+$lang['shipping']					= 'Livraison';
+$lang['tax']						= 'Taxe';
 $lang['taxes']						= 'Taxes';
-$lang['grand_total']				= 'Grand Total';
+// TODO check
+$lang['grand_total']				= 'Montant total à payer';
+// TODO CONTINUE
 $lang['address_manager']			= 'Address Manager';
 $lang['address_form']				= 'Address Form';
 $lang['your_addresses']				= 'Your Addresses';
