@@ -29,6 +29,9 @@ $lang['active']					= 'Active';
 $lang['yes']					= 'Yes';
 $lang['no']						= 'No';
 $lang['download_link']			= 'Click here to access your downloads!';
+$lang['catalog']				= 'Catalog';
+$lang['account']				= 'Account';
+$lang['close']					= 'Close';
 
 $lang['empty_cart']				= 'Your cart is empty';
 $lang['single_item']			= 'There is %d item in your cart';
@@ -99,7 +102,6 @@ $lang['error_save_payment']			= 'There was a problem saving your payment method'
 $lang['error_choose_payment']		= 'Please choose a payment method';
 $lang['error_choose_shipping']		= 'Please choose a shipping method';
 $lang['continue_shopping']			= 'Continue Shopping';
-$lang['form_login']					= 'Log In';
 $lang['register_now']				= 'Register Now';
 $lang['submit_order']				= 'Submit Order';
 $lang['edit_customer_information']	= 'Edit Customer Information';
