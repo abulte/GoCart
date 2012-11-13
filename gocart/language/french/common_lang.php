@@ -131,8 +131,8 @@ $lang['coupon_discount']			= 'Réduction coupon';
 $lang['gift_card_discount']			= 'Réduction chèque cadeau';
 $lang['discounted_subtotal']		= 'Sous-total avec réduction';
 $lang['shipping']					= 'Livraison';
-$lang['tax']						= 'Taxe';
-$lang['taxes']						= 'Taxes';
+$lang['tax']						= 'TVA';
+$lang['taxes']						= 'TVA';
 // TODO check
 $lang['grand_total']				= 'Montant total à payer';
 // TODO CONTINUE
