@@ -29,6 +29,10 @@ $lang['active']					= 'Actif';
 $lang['yes']					= 'Oui';
 $lang['no']						= 'Non';
 $lang['download_link']			= 'Cliquez ici pour accéder à vos téléchargements !';
+$lang['catalog']                = 'Catalogue';
+$lang['account']                = 'Mon compte';
+$lang['close']                  = 'Fermer';
+
 
 $lang['empty_cart']				= 'Votre panier est vide';
 $lang['single_item']			= 'Il y a %d article dans votre panier';
