@@ -68,3 +68,6 @@ $lang['packing_is_gift']			= 'IS GIFT';
 $lang['ship_to_address']			= 'Ship To Address';
 $lang['bill_to_address']			= 'Bill To Address';
 $lang['saving']						= 'Saving';
+
+$lang['order_content']              = 'Contenu de la commande';
+$lang['not_allowed']                = 'Action non autorisée';
